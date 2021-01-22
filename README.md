@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=97jaehak)](https://solved.ac/97jaehak)
+
 
 <!--
 **LEE-JAEHAK/LEE-JAEHAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=97jaehak)](https://solved.ac/97jaehak)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LEE-JAEHAK)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEE-JAEHAK)](https://github.com/anuraghazra/github-readme-stats)
